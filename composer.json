@@ -1,0 +1,25 @@
+{
+    "name": "CrayFlatline/carbon-field-city-select",
+    "description": "Select country-district-city",
+    "keywords": ["wordpress", "carbon-field", "carbon-field-city-select"],
+    "homepage": "https://github.com/CrayFlatline/carbon-field-city-select/",
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Cray Flatline",
+            "email": "cray@sscgroup.net"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.1"
+    },
+    "autoload": {
+        "files": [
+            "field.php"
+        ],
+        "psr-4": {
+            "Carbon_Field_City_Select\\": "core/"
+        }
+    }
+}
