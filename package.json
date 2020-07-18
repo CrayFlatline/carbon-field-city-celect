@@ -43,7 +43,7 @@
     "@wordpress/i18n": "^3.1.0",
     "china-area-data": "^4.0.0",
     "classnames": "^2.2.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "react": "^16.6.3",
     "react-city-picker": "^1.0.6",
     "react-dom": "^16.6.3",
